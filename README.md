@@ -1,4 +1,4 @@
-#Walkie-talkie Service
+# Walkie-talkie Service
 
 This is the back end code for a browser-based walkie-talkie.  It is meant to be deployed using Twilio Serverless.  The front end code can be found at:
 https://github.com/joshuasorkin/walkie-talkie-frontend
